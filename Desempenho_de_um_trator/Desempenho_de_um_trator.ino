@@ -3,7 +3,7 @@
    AUTOR: MAYRON REIS LACERDA RIBEIRO
    ESTUDANTE DE ENGENHARIA DE COMPUTAÇÃO IFMG - CAMPUS BAMBUÍ
 
-   TRABALHO DE CONCLUSÃO DE CURSO - PARTE 7 DE XX
+   TRABALHO DE CONCLUSÃO DE CURSO - PARTE 11 DE XX
    ==================================================================================================
    LEITOR CARTÃO - CIRCUITO
    CS 4
